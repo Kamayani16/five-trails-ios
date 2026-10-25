@@ -1,0 +1,16 @@
+{
+  "appId": "com.fivetrails.app",
+  "appName": "Five Trails",
+  "webDir": "www",
+  "backgroundColor": "#0c1f66",
+  "ios": {
+    "contentInset": "never",
+    "scrollEnabled": false,
+    "limitsNavigationsToAppBoundDomains": false
+  },
+  "plugins": {
+    "LocalNotifications": {
+      "iconColor": "#ffd23a"
+    }
+  }
+}
